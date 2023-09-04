@@ -33,7 +33,6 @@ Feel free to get in touch for any collaborations, queries, or just to say hi!
 
 - <a href="https://github.com/ebadawy" target="_blank">**GitHub**</a>
 - <a href="https://linkedin.com/in/ebadawy" target="_blank">**LinkedIn**</a>
-- <a href="/files/resume.pdf" target="_blank">**Resume**</a>
 - <a href="https://scholar.google.com/citations?user=S8JSHG4AAAAJ&hl=en" target="_blank">**Google Scholar**</a>
 
 ## Disclaimer
